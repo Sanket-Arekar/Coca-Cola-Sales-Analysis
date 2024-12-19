@@ -130,3 +130,8 @@ The dataset used in this project includes:
 ```
 2. Open the .pbix file in Power BI Desktop.
 3. Explore the dashboard to answer key business questions and derive insights.
+
+# Credits
+This dashboard was created by following the YouTube video **Make a Power BI Dashboard in 15 Minutes!** by **Kenji Explains**. 
+The original tutorial guided importing data, structuring the dashboard, and creating visualizations.
+All credit for the instructional content and inspiration for this project goes to the tutorial creator.
