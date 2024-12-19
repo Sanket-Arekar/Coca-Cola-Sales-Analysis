@@ -27,17 +27,29 @@ The Coca-Cola Sales Dashboard is an interactive reporting tool that visualizes t
      * "How many regions are there?"
      * "What is the total number of states we operate in?"
 
+![image](https://github.com/user-attachments/assets/db046d21-5071-47c7-b3eb-b36c87d6b4f0)
+
+
 **2. Key Influencers**
 * Highlights key factors that influence operating profit, such as product category and pricing strategy.
 * Users can explore how specific variables impact profit margins.
+
+![image](https://github.com/user-attachments/assets/b66b5f2e-4956-42d1-a8f2-91ea9bba2fd5)
+  
 
 **3. Sales by State (Map Chart)**
 * Visualizes total sales geographically across states.
 * Features zoom and navigation for a detailed view of regional performance.
 
+![image](https://github.com/user-attachments/assets/e5296df6-a976-4884-b3f2-efc254820ad4)
+
+
 **4. Financial Breakdown (Matrix Visualization)**
 * Summarizes metrics like total sales, units sold, price per unit, operating profit, and margin by beverage brand.
 * Includes conditional formatting to highlight trends in total sales.
+
+![image](https://github.com/user-attachments/assets/2e234fdd-048c-43d6-a79e-8a66ba35b643)
+
 
 # 💡 Business Questions Answered
 The dashboard addresses critical business queries, such as:
